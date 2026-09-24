@@ -1,2 +1,2 @@
 # Flux
-Code editor with Google Doc powers 
+Code editor 
